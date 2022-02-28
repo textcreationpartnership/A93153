@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few words concerning the fast which God requires the antiquity, necessity, and universality of it.</title>
+            <author>Shewen, William, 1631?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93153</idno>
+            <idno type="STC">Wing S3422</idno>
+            <idno type="STC">ESTC R42493</idno>
+            <idno type="EEBO-CITATION">36282109</idno>
+            <idno type="OCLC">ocm 36282109</idno>
+            <idno type="VID">150289</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150289)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2240:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few words concerning the fast which God requires the antiquity, necessity, and universality of it.</title>
+                  <author>Shewen, William, 1631?-1695.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ben. Clarke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Shewen by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin, Original --  Quaker authors.</term>
+               <term>Fasting --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150289:1" rendition="simple:additions"/>
+            <p>A Few WORDS Concerning the FAST Which God requires. The Antiquity, Neceſſity and Univerſality of it.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ben. Clarke,</hi> in <hi>George-Yard, Lumbard-ſtreet,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150289:2"/>
+            <pb facs="tcp:150289:2"/>
+            <head>A few Words concerning the <hi>Faſt</hi> which God requires: The Antiquity, Neceſ<g ref="char:EOLhyphen"/>ſity and Univerſality of it.</head>
+            <p>FIrſt, God commanded mankind, (or our firſt parents) who were made Perfect, Holy, Upright, Innocent in his own Image and Likeneſs; to Faſt, or abſtain from eating the forbidden fruit: And while mankind kept this Faſt, God was well pleaſed with him, and he kept his ſtate and dwelling place in Paradice, enjoying the Light of Gods countenance; no Guilt, no Shame, no Fear, the effects of ſin was in being; the whole Creation was in their heavenly and earthly order, without Rent, Schiſme or Jar: All was good, yea very good.</p>
+            <p>Now when mankind broke his this <hi>Faſt,</hi> and eat that which God forbid him; which was good in it ſelf, though not for food, this let in all the Guilt, Fear, Shame, Perplexity of Mind, Confuſion, Diſtreſs and Miſery, that hath ever ſince attended mankind in this eſtate, even to this our Day, Age and Generation, among the whole bulk of mankind, of what Name, Nati<g ref="char:EOLhyphen"/>on, Opinion, Sect, Sort or Faſhion of Religion ſoever they be off: If they are found Eating the forbidden fruit; breaking the command of God, not keeping the Faſt that God required
+<pb n="2" facs="tcp:150289:3" rendition="simple:additions"/>and requireth, let their Form and Worſhip be what it will, ſuch cannot find acceptance; in the day they eat they die: As to God; and they find that ſaying true, <hi>When ſin is finiſhed it brings forth death.</hi>
+            </p>
+            <p>Now all evil thinking, evil ſpeaking, and evil doing; all Envy and Hatred, Plots and Con<g ref="char:EOLhyphen"/>ſpiraces to Murther and Deſtroy one another, received its life and beginning in man, when he broke the Faſt God commanded him to keep, and will continue and remain until the Faſt be kept again, until man comes to live in obe<g ref="char:EOLhyphen"/>dience to the command of God: <hi>To ceaſe from evil, and learn to do well; to do that he ſhould do, and leave undone that he ſhould not do.</hi> And this I teſtifie from certain knowledge and experi<g ref="char:EOLhyphen"/>ence, that this is the Faſt which God requires: And that it is poſſible, mankind, through walk<g ref="char:EOLhyphen"/>ing in the Light and Learning of the Grace and Spirit of God, may come into ſuch eſtate while on this ſide the grave; as to be able to keep this Faſt, which God is well pleaſed with: And is indeed the Faſt which was pointed at, and Typified forth by all the appointed Faſts under the Shadows, Diſpenſation of the Law; Teſti<g ref="char:EOLhyphen"/>fied of by the Prophets, enjoyed and witneſſed by the primitive Chriſtians:<note place="margin">God Almighty Bleſs the Intentions and Endeavours of this preſent Parliament, in order to this work, and Crown them with Succeſs.</note> Which Faſt did not conſiſt in forbearing to eat outward Food, and to ceaſe from out<g ref="char:EOLhyphen"/>ward Labour, or in hanging down the Head, and walking
+<pb n="3" facs="tcp:150289:3"/>Mournfully for a time, or day, or in Reading over Prayers, <hi>&amp;c.</hi>
+            </p>
+            <p>But in ſhort, <hi>To looſe the Bonds of wickedneſs,</hi>
+               <note place="margin">Iſa. 18. Zech. 7. <hi>from the</hi> 5 <hi>v. to</hi> 10. Mat. 6.16, 17, 18. <hi>ver.</hi>
+               </note> 
+               <hi>undo the heavy Bur<g ref="char:EOLhyphen"/>thens, let the oppreſſed go free: Break every evil yoak, give bread to the hungry, bring the poor into the houſe, cover the naked, execute true judgment, ſhew mercy and compaſſion every man to his bro<g ref="char:EOLhyphen"/>ther; Oppreſs not the Widow, Fatherleſs, Stranger and Poor; And let none imagine evil againſt his Brother or Neighbour:</hi> This is the Faſt the Lord did declare to be his choice in the Prophets time, and his choice is the ſame at this day: And this Faſt is agreeable to the diſpenſation of Chriſt, or Goſpel days we now live in; being indeed the ſubſtance of the Doctrine of Chriſt, and the bleſſed end of his Coming, and glorious appearance in and among mankind, <hi>To make an end of ſin;</hi> And to mortifie the appetite, deſire or hunger that ſprang up, and ſprings up in man<g ref="char:EOLhyphen"/>kind after the forbidden fruit; the which being given way unto, led and leadeth into the breaking that Faſt which God commanded and commandeth to be kept. <hi>And to bring in ever<g ref="char:EOLhyphen"/>laſting righteouſneſs;</hi> deſtroy the Devil and all his works, and reſtore, and redeem mankind into the Image of God again; into Purity, Up<g ref="char:EOLhyphen"/>rightneſs, Holineſs, Juſtice, Righteouſneſs, Equity and Mercy, Love and good Will to all mankind: Thoſe that are, here are in the Image of God, and are keeping the Faſt which God
+<pb n="4" facs="tcp:150289:4" rendition="simple:additions"/>commanded, and his Soul delights in: And in this ſtate men are friends to God and friends to their Neighbour, and Love and good Will abounds in each man to his Neighbour and Brother, though he may differ in his under<g ref="char:EOLhyphen"/>ſtanding about ſpiritual things, and in the Man<g ref="char:EOLhyphen"/>ner and Form of his Worſhip. For let all men take this for an infallible ſign, that if they find Envy and Anger ariſe in them againſt their Neighbour and Brother about Religion, Wor<g ref="char:EOLhyphen"/>ſhip and Sacrifice, that they are of the ſpirit of <hi>Cain,</hi> that Religious Murtherer, who ſlew his Brother, becauſe he was more Righteous, and his Sacrifice more accepted then his: Oh that none profeſſing Chriſtianity might be found in this ſtate.</p>
+            <p>For it is inconſiſtant with the Spirit and Na<g ref="char:EOLhyphen"/>ture thereof, (though not with the Name and Form) to Hate, Envy and Perſecute about Re<g ref="char:EOLhyphen"/>ligion, Church and Worſhip, to Inquiſition and torture mens Bodies, ruine and deſtroy their Eſtates in this World, about the things of the World to come, (or the Belief or Opinion of them) who are found in this work, know not what Spirit they are of; neither know they how to keep a Faſt to God, nor offer a Sacrifice acceptable in his ſight; this is the word of Truth to all, let their Name, Form or Faſhion of Worſhip and Religion be what it will.</p>
+            <p>It is the Duty of every Chriſtian to Faſt and Pray; to Sacrifice a Faſt unto the Lord, <hi>To abſtain from every appearance of evil,</hi> (not from
+<pb n="5" facs="tcp:150289:4"/>outward Food, or from one ſort of Food, and eat another, and call that a <hi>Fast</hi>) Faſting and Prayer God delights in, but Eating and Prayer, Sinning and Sacrificing, doing that which ſhould not be done, and leaving that undone which ſhould be done, his Soul hates: And becauſe of theſe things his Judgments are near to be revea<g ref="char:EOLhyphen"/>led in this Age, as in Ages paſt, againſt all out<g ref="char:EOLhyphen"/>ſide, formal, hypocritical Profeſſors of all ſorts and ſects who have good Words and fair Spee<g ref="char:EOLhyphen"/>ches in their Mouths, but foul Deeds and evil Doings are found in their Hearts and Hands. This is the great Sin of <hi>Christendom,</hi> which God will viſit for.</p>
+            <p>And God hath opened the eyes of thouſands and ten thouſands in this Iſland, to ſee, in ſome meaſure, as he ſeeth, and to underſtand things aright; and ſuch are not, nor cannot be decei<g ref="char:EOLhyphen"/>ved with a Golden Cup, while the Wine of For<g ref="char:EOLhyphen"/>nication is in it.</p>
+            <p>In the time of ignorance (it is written) God winked, but now he hath opened his eye, and his mouth alſo, and calls to all men every where to Repent, and all ſuch as walks in the light of the eye of God, and obeys his voice, they come to know and witneſs a returning into Paradice, into the favour of God, into innocency; up<g ref="char:EOLhyphen"/>rightneſs and true holineſs again, which man<g ref="char:EOLhyphen"/>kind loſt by eating the forbidden Fruit, which God commanded and commandeth to abſtain or faſt from; and theſe are the people that are in a capacity to keep a <hi>Fast</hi> well-pleaſing to God:
+<pb n="6" facs="tcp:150289:5" rendition="simple:additions"/>And this is the bleſſed end of God in ſpeaking to our Fathers, to <hi>Moſes,</hi> to the Prophets, and laſt of all by his only Son, even that mankind might come to keep the bleſſed <hi>Faſt</hi> which God ordai<g ref="char:EOLhyphen"/>ned in Paradice; and that he might no more hunger and thirſt after the forbidden Fruit, but after Righteouſneſs, Peace and Joy in the holy Spirit, in which ſtands that Kingdom, the in<g ref="char:EOLhyphen"/>creaſe thereof hath no end (he that can receive it, let him;) for ſhort of this, all ſorts of Profeſſion and Religion is vain.</p>
+            <p>And among theſe people, the fruits and effects of keeping the <hi>Fast</hi> the Lord chuſeth, ſhews forth themſelves, being ready and willing to <hi>relieve the oppreſſed, to take off the heavy Bur<g ref="char:EOLhyphen"/>thens,</hi> &amp;c. as before expreſſed: And to and a<g ref="char:EOLhyphen"/>mong ſuch <hi>the Light is riſen out of obſcurity, and the Darkneſs is become as Noon-day, and the Lord guides ſuch continually, and ſatisfies their Souls in drought, and their Bones are made fat, and are like the watered Garden, and like a Spring whoſe Water never fails.</hi> Theſe, and many more Bleſſings were promiſed to ſuch as kept the <hi>Faſt</hi> which God chuſeth; And a remnant that are come to the keeping of it, are living Witneſſes that he is faithful that promiſed, and hath fulfilled the ſame, and can praiſe the Lord in the ſenſe and enjoyment thereof, though there be many ſorts of Faſters in <hi>Chriſtendom,</hi> that know nothing ex<g ref="char:EOLhyphen"/>perimentally of the fulfillings of theſe and ma<g ref="char:EOLhyphen"/>ny other precious Promiſes, becauſe their <hi>Faſts</hi> have not been of God's chuſing or appointing,
+<pb n="7" facs="tcp:150289:5" rendition="simple:additions"/>but of their own; ſo the fruit and effect hath been ſtrife and debate, and to ſmite with the fiſt of wickedneſs, though under a ſolemn Form of afflicting their Souls for a day, bowing down their heads, cloathing themſelves in Sack-cloth, and, it may be, cutting their Fleſh with Whips too, accompanied with abundance of other Acts voluntary humility, which finds no acceptance with God, but is ſpread as Dung upon their Faces, being not the <hi>Faſt,</hi> neither for matter nor manner which he delights in. And this is found true by woful experience, throughout whole <hi>Chriſtendome,</hi> whoſe Fruits and evil Con<g ref="char:EOLhyphen"/>verſation one towards another, may compare with any Nation under Heaven, whereby the name of Chriſt and Chriſtianity (or the Chriſtian Religion) is become odious to <hi>Jews, Turks</hi> and Infidels: And a remnant that are Chriſtians in<g ref="char:EOLhyphen"/>deed, and are keeping a <hi>Fast</hi> to God, are grie<g ref="char:EOLhyphen"/>ved to hear a great noiſe of holy Church, holy Fathers, holy Scriptures, holy Traditions, holy Orders, holy Bread, holy Wine, holy Water, holy Veſtments and holy Places, while all lies in pollution, while all unholineſs abounds, eſ<g ref="char:EOLhyphen"/>pecially among men pretending to holy Orders, who think they do good ſervice to Plot and Con<g ref="char:EOLhyphen"/>trive the Ruine and Deſtruction of mens Lives who cannot believe their Church to be holy as they ſay: This <hi>Cainiſh</hi> murtherous Spirit is not only contrary to true Chriſtianity, but alſo in<g ref="char:EOLhyphen"/>conſiſtent with humane Society, and the well<g ref="char:EOLhyphen"/>being of mankind; This is ſo great a Beaſt of
+<pb n="8" facs="tcp:150289:6"/>Prey, that it is not ſafe in theſe Proteſtant Coun<g ref="char:EOLhyphen"/>tries to ſuffer his Horns to grow ſtrong, much leſs to have Crowns upon them; one great end of Mageſtery being to take care that one man prey not upon another, And nothing proves more ravenous, cruel and unnatural, than what is bred and generated, through a falſe opinion of Religion, the ground indeed of many Maſ<g ref="char:EOLhyphen"/>ſacres, and much Bloudſhed in <hi>Christendom.</hi>
+            </p>
+            <p>Now in as much as God by his immediate hand of Power ſtirring in the Hearts and Conſci<g ref="char:EOLhyphen"/>ences of wicked men (who were Inſtruments in, and privy to the late <hi>Bloudy, Popiſh, Religious Plot</hi>) hath ſo wrought, as to bring them to make ſome Diſcovery of the ſame, whereby the Pit and Snare they have digged and laid, by Coun<g ref="char:EOLhyphen"/>cil from the depth of Hell, is in ſome meaſure diſcovered, if not clearly ſeen. This all true Chriſtians cannot but acknowledge to be the mighty merciful hand of Almighty God to the Inhabitants of this Iſland in particular, and to all tender hearted well-meaning Proteſtants in <hi>Europe,</hi> for which great Mercy it is their boun<g ref="char:EOLhyphen"/>den Duty to humble themſelves under the migh<g ref="char:EOLhyphen"/>ty hand of God, who hath diſcovered the Dan<g ref="char:EOLhyphen"/>ger, diſcovered the Pit and Snare (and brought to light the hidden things of darkneſs) that they may witneſs a ſafe and full Deliverance there<g ref="char:EOLhyphen"/>from.</p>
+            <p>Now it is not enough to appoint a day for a <hi>Faſt,</hi> and to make a Book of <hi>Prayers</hi> to be read on that day, and to hear a few ſtuddied Ser<g ref="char:EOLhyphen"/>mons,
+<pb n="9" facs="tcp:150289:6"/>
+               <hi>&amp;c:</hi> this is not that which God regards, but every particular is to breath and <hi>cry mighti<g ref="char:EOLhyphen"/>ly unto God, and every one is to turn from his evil way, and from the violence that is in their hands;</hi> this is that which God took ſpecial notice of, and had only regard unto in the <hi>Faſt</hi> of the King and the Citizens of that great City <hi>Niniveh.</hi>
+               <note place="margin">Theſe were neither <hi>Jews</hi> nor <hi>Iſraelites,</hi> neither had they the Law of God by <hi>Moſes</hi> given to them, yet God had more regard to their <hi>Fast,</hi> then to the <hi>Faſts</hi> of the <hi>Jews,</hi> who, notwithſtanding their frequent formal Faſtings, continued <hi>doing evil;</hi> and theſe <hi>Aſſyrians. Gentiles,</hi> or Heathens, <hi>turning every one from the evil of his way,</hi> found favour and acceptance in the ſight of God, this clearly ſhews that the juſt God is no reſpector of perſons but in every Nation thoſe that fear him, and work Righteouſneſs ſhall be accep<g ref="char:EOLhyphen"/>ted, and the contrary reject<g ref="char:EOLhyphen"/>ed; let them profeſs as they will, and talk of being within the Pale of the Church, and of the Apoſtolical Faith, and in holy Orders, and Admini<g ref="char:EOLhyphen"/>ſtrators, and Partakers of ho<g ref="char:EOLhyphen"/>ly Ordinances, <hi>&amp;c.</hi> all this talk is vain and frivolous, if there be not <hi>a turning every one from the evil of his way.</hi> This is the word of truth to all whom it may concern.</note> It's ſaid <hi>God ſaw their Works, and that they turned from their evil ways.</hi> This is the principle part of the <hi>Faſt</hi> that God takes no<g ref="char:EOLhyphen"/>tice of, where this is wanting, all other cir<g ref="char:EOLhyphen"/>cumſtances as hath been hinted before a<g ref="char:EOLhyphen"/>vails nothing; this a<g ref="char:EOLhyphen"/>lone turns away the wrath and anger of God from a perſon or people, from a City or Kingdom, even by tur<g ref="char:EOLhyphen"/>ning <hi>every one from his evil way,</hi> which is no leſs than a <hi>forſaking the Devil and all his Works, the Pomps and Vanities of this World, and all
+<pb n="10" facs="tcp:150289:7" rendition="simple:additions"/>the ſinful Luſts of the Fleſh, and to keep God's holy Will and Commandments;</hi> This is the Duty of every Chriſtian, and all that are found therein are keeping a <hi>Faſt</hi> to God. Let all ſtrive to ex<g ref="char:EOLhyphen"/>ceed each other herein, though of different Names, in different Forms, Diſciplines, Cere<g ref="char:EOLhyphen"/>monies and Circumſtances, let all ſee that his heart is ſincere to God, and that he ſtands ap<g ref="char:EOLhyphen"/>proved in what he doth in the eye of the Lord, which runs to and fro through the Earth, and beholds the Evil and the Good, which eye is nigh unto all men, and ſees the things done in ſecret, and cauſeth them to be preached upon the Houſe-top. Now this pure eye of God (or Light) in men, cannot behold Iniquity (ſo as to approve of it) but condemns it, (if it be brought to it, as he that loveth it doth,) and all thoſe that are found working of it; let their Name, Nation, Opinion, Profeſſion, Form or Faſhion of Worſhip be what it will; <hi>He that doth evil hates the Light,</hi> and Sin lies at his door, and his fooliſh heart is darkened and hardened, for doing of evil doth both. And he that hath a hard heart, and regards Iniquity, he hath no Sacrifice to offer acceptable to God, neither will he hear their <hi>Prayers,</hi> nor regard their <hi>Faſts,</hi> nor their ſolemn Aſſemblies; ſo it concerns all to examine how they ſtand in the ſight of God, for God cannot be mocked, he ſees the inſide of all mens hearts, and their ſecret intents and purpoſes are not hid from him. Bleſſed are all that walk upright in his ſight, according to the
+<pb n="11" facs="tcp:150289:7"/>meaſure of knowledge and underſtanding he hath given to them, ſuch alone are in the way to receive more and more of his Mercies, Bleſ<g ref="char:EOLhyphen"/>ſings, Riches and Fulneſs, until their ſouls are fully ſatisfied therewith: Which that all may come to enjoy, is the breathing deſires of him who hath good will to all men.</p>
+            <closer>
+               <signed>W. Shewen.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>IN order to keep the Faſt which God requires, let all people beware of that Doctrine that is taught and believed by divers Sects in Chri<g ref="char:EOLhyphen"/>ſtendom, <hi>viz. That it is unpoſſible to live without ſin, or to abſtain from eating the forbidden fruit, while on this ſide the grave.</hi> Such Teachers and Believers are under a ſtrong deluſion, believing a Lye, the high way to damnation; for man<g ref="char:EOLhyphen"/>kind had a being in this viſible world, before ſin was, and the beſt life he ever lived, was without ſin; when he began to ſin, to break Gods command, to eat forbidden fruit, then be<g ref="char:EOLhyphen"/>gan his Miſery, and as Sin increaſed, his Miſery increaſed, as it doth upon all men at this day.</p>
+            <p>Now God in his univerſal love and pity to<g ref="char:EOLhyphen"/>wards mankind, did, and hath ordained means of Reſtoration, Renovation and perfect Re<g ref="char:EOLhyphen"/>demption, from and out of that which was and is the cauſe of all the miſery and ſorrow that doth and hath attended mankind from the beginning of the world to this day, <hi>viz.</hi> Sin: And this means is Chriſt Jeſus the Son of the
+<pb n="12" facs="tcp:150289:8" rendition="simple:additions"/>living God, in whom is Life, and the Life is Light of men; which is ſufficient to lead all that love it, and receive him, out of ſin, into a ſinleſs ſtate again, into paradice again, into the favour of God again; which Chriſt is the power and wiſdom of God, able to deſtroy the Divel and his works; and to make an end of ſin, which the Devil and the firſt Adam began; and to ſave his people, not only from the pu<g ref="char:EOLhyphen"/>niſhment of ſin, but from the committing of it alſo: This is the Goſpel of glad tydings to all that are weary and heavy laden, and feel the weight and burthen of ſin, and the loathſom<g ref="char:EOLhyphen"/>neſs and ſtink of the dead body of it: And they are the only Miniſters of God and Chriſt that preach this Goſpel to mankind; and the other are the quite contrary, let their pretence be what it will, ſuch never comes themſelves, nor brings others to keep the Faſt which God de<g ref="char:EOLhyphen"/>lights in.</p>
+            <p>Now thoſe that are come to the keeping this Faſt, and are reſtored by Chriſt Jeſus into the heavenly Image man bore before he broke it, may be tempted as Adam was, and drawn into ſin after the ſimilitude of Adams Trangreſſion, if they ſtand not in awe and dread of the Myſtery and Power of God, who commanded to forbear to eat, and gave, and gives wiſdom and power ſo do: And take Chriſt Jeſus the ſecond Adam for their living and heavenly example; who when he was tempted in his great Faſt, which he kept to God his Father, he did not Eat, though
+<pb n="13" facs="tcp:150289:8" rendition="simple:additions"/>tempted to Eat, beyond what the firſt Adam was, yet did not ſo much as hunger in the time of it; but when the time of temptation was over, and the Devil made to flee, he then hungred, and Angels came and miniſtred unto him. This ſecond Adam is to be followed by every true Chriſtian, and the firſt Adam what he did in breaking the Faſt, in obeying the tempter, may ſerve as a warning, leaſt doing the like, the ſame reward of puniſhment follow.</p>
+            <p>Oh that all Kings, Princes, Parliaments, Ma<g ref="char:EOLhyphen"/>giſtrates and People in Chriſtendom, would con<g ref="char:EOLhyphen"/>ſider, know and underſtand, that the pure Chri<g ref="char:EOLhyphen"/>ſtian Religion doth not teach, allow nor admit that any mans Eſtate, Liberty, Perſon or Life, ought to be ruined, tortured or deſtroyed, be<g ref="char:EOLhyphen"/>cauſe they do not receive, believe nor under<g ref="char:EOLhyphen"/>ſtand the ſame. No man can make or force his Brother or Neighbour to be a true Chriſtian; he that is not ſo, hath and will have puniſh<g ref="char:EOLhyphen"/>ment ſufficient: It's enough for <hi>Caeſar</hi> (or the Civil Magiſtrate) to mind the things of his kingdom, and to watch over thoſe whoſe Opi<g ref="char:EOLhyphen"/>nions and Principles leads them into Plots and Conſpiracies, Maſſacres and Rebellions, and all ſorts of Violence, under the notion of ad<g ref="char:EOLhyphen"/>vancing the kingdom of Chriſt, his Church and Ordinances, and the holy Catholick Religion: Even theſe (let their name be as it will) he that rules for God and the good of men, ought to have an eye and care that they may not have power and opportunity to execute the ſame.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
